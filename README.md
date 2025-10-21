@@ -1,7 +1,7 @@
 ![Active Developer](https://github.com/IgorKowalczyk/active-dev/assets/49127376/17770e3d-dd86-4044-9969-7adcfc3ebff3)
 
 
----
+
 
 
 

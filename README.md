@@ -26,5 +26,5 @@
 - Paste the token when asked and press enter
 - Follow the instructions in the CLI and you're done!
 
-© 2025 Active Badge Discord. All rights reserved.
-Developer: Yousef Magdy — @joeauraa
+Yousef Magdy — @joeauraa
+© 2025 Active Badge Discord. All rights reserved
